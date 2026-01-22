@@ -97,7 +97,3 @@ Since this is a static site structure, it's easy to get running:
 1. Clone the repo.
 2. Open `index.html` in your browser (or use **Live Server** in VS Code for the best experience).
 3. *Note:* The Authentication features require a valid Firebase configuration. You may need to create your own Firebase project and replace the keys in `js/main.js`.
-
----
-
-*Built with ☕ and a lot of CSS keyframes.*
